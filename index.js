@@ -1,4 +1,4 @@
-var colors = ["red", "blue", "aquamarin", "yellow", "redlight"];
+var colors = ["red", "blue", "aquamarin", "yellow", "red light"];
 var age = [23, 53, 26, 66, 63, 77, 23];
 
 // Get value by index Number
